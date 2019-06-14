@@ -1,0 +1,6 @@
+# Predicting Risk of Cardiovascular Disease
+
+Cardiovascular diseases, such as coronary artery disease, are the leading cause of death worldwide for both men and women. In the United States, 1 in every 4 deaths is caused by cardiovascular disease (CVD, otherwise known as heart disease). Every year, roughly 790,000 Americans suffer from a heart attack - that’s one heart attack every 40 seconds. However, it is estimated that up to 90% of heart disease cases are preventable. Known risk factors for heart disease include high cholesterol, high blood pressure, inactivity, poor diet, and smoking. Early identification of those at higher risk of developing heart disease is critical so that preventative interventions such as lifestyle changes and medication can be implemented.
+The goal of this project is to use a large cardiovascular dataset to examine trends between the presence of cardiovascular disease and different health data such as gender, blood pressure, BMI, and cholesterol level. I will then build predictive models that use the most relevant features to classify patients with heart disease and predict risk of heart disease based on the combination of risk factors.
+
+The dataset for this project is available from Kaggle: https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
